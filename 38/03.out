@@ -1,0 +1,8 @@
+array
+{
+  [0] = 6
+  [1] = 2
+  [2] = -6
+}
+isIncreasingUsingIndexing(array, i) = false
+isIncreasingUsingPointers(array, i) = false

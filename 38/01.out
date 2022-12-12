@@ -1,0 +1,11 @@
+array
+{
+  [0] = 2305
+  [1] = 1361
+  [2] = 1362
+  [3] = 1331
+  [4] = 1341
+  [5] = 1351
+}
+isIncreasingUsingIndexing(array, i) = false
+isIncreasingUsingPointers(array, i) = false
